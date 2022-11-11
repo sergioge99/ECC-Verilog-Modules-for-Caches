@@ -6,8 +6,7 @@
 
 module enc_top (
     input [63:0] IN,
-    output reg [71:0] OUT,
-    input clk
+    output reg [71:0] OUT
 );
 
     always @(*) begin
