@@ -7,10 +7,8 @@ reg [71:0] IN;
 wire [71:0] OUT;
 wire [7:0] SYN;
 wire ERR, SGL, DBL;
-reg clk;
 
-// Fake clock does nothing
-dec_top DUT0 (.IN(IN), .OUT(OUT), .SYN(SYN), .ERR(ERR), .SGL(SGL), .DBL(DBL), .clk(clk));
+dec_top dec_top (.IN(IN), .OUT(OUT), .SYN(SYN), .ERR(ERR), .SGL(SGL), .DBL(DBL));
 
 initial begin
 

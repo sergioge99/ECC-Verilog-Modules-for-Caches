@@ -6,10 +6,8 @@ module fi_tb();
 reg [71:0] IN;
 wire [71:0] OUT;
 reg [1:0] control;
-reg clk;
 
-// Fake clock does nothing
-fault_injector DUT0 (.IN(IN), .control(control), .OUT(OUT), .clk(clk));
+fault_injector fault_injector (.IN(IN), .control(control), .OUT(OUT));
 
 initial begin
 

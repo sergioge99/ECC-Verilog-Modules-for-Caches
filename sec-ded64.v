@@ -97,8 +97,7 @@ endmodule
 module dec_top (input [71:0] IN,
     output wire [71:0] OUT,
     output reg [7:0] SYN,
-    output reg ERR, SGL, DBL,
-    input clk
+    output reg ERR, SGL, DBL
 );
 
 
