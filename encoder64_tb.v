@@ -278,13 +278,6 @@ module enc_tb();
         #`CLOCK_PERIOD
 
         IN <= 64'b0000000000000000000000000000000000000000000000000000000000000000;
-        #`CLOCK_PERIOD
-
-
-        // apparently, you cannot have an "end" preceded by something that does 
-        // not finish in ";", for example a "#`CLOCK_PERIOD"...
-        IN <= 64'b0000000000000000000000000000000000000000000000000000000000000000;
-
 
     end
 
