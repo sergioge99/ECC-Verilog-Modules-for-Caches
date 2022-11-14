@@ -1,5 +1,11 @@
+//
+// DECODER TESTBENCH
+//
+// Authors: Asier Fernandez and Sergio Garcia
+//
+
 `timescale 1 ns /10 ps  // time-unit = 1 ns, precision = 10 ps
-`define CLOCK_PERIOD 1
+`define PERIOD 1
 
 module dec_tb();
 
@@ -13,35 +19,35 @@ dec_top dec_top (.IN(IN), .OUT(OUT), .SYN(SYN), .ERR(ERR), .SGL(SGL), .DBL(DBL))
 initial begin
 
     IN <= 72'd0;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     
     //Single data bit flip
     IN <= 72'b000000000000000000000000000000000000000000000000000000000000000000000001;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     if(OUT != 72'b000000000000000000000000000000000000000000000000000000000000000000000000 || ERR!=1 || SGL!=1 || DBL!=0 )
         $display("test failed for Single data bit flip");
     
     //Double data bit flip
     IN <= 72'b000000000000000000000000000000000000000000000000000000000000000000000011;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     if(OUT != 72'b000000000000000000000000000000000000000000000000000000000000000000000011 || ERR!=1 || SGL!=0 || DBL!=1 )
         $display("test failed for Double data bit flip");
     
     //Single check bit flip
     IN <= 72'b100000000000000000000000000000000000000000000000000000000000000000000000;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     if(OUT != 72'b000000000000000000000000000000000000000000000000000000000000000000000000 || ERR!=1 || SGL!=1 || DBL!=0 )
         $display("test failed for Single check bit flip");
     
     //Double check bit flip
     IN <= 72'b110000000000000000000000000000000000000000000000000000000000000000000000;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     if(OUT != 72'b110000000000000000000000000000000000000000000000000000000000000000000000 || ERR!=1 || SGL!=0 || DBL!=1 )
         $display("test failed for Double check bit flip");
     
     //Both data-check bit flip
     IN <= 72'b100000000000000000000000000000000000000000000000000000000000000000000001;
-    #`CLOCK_PERIOD 
+    #`PERIOD 
     if(OUT != 72'b100000000000000000000000000000000000000000000000000000000000000000000001 || ERR!=1 || SGL!=0 || DBL!=1 )
         $display("test failed for Both data-check bit flip");
     

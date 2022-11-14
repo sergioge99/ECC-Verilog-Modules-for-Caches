@@ -1,3 +1,9 @@
+//
+// ENCODER TESTBENCH
+//
+// Authors: Asier Fernandez and Sergio Garcia
+//
+
 `timescale 1 ns /10 ps  // time-unit = 1 ns, precision = 10 ps
 `define PERIOD 1
 

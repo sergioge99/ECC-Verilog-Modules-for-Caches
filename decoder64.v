@@ -4,7 +4,6 @@
 // Authors: Asier Fernandez and Sergio Garcia
 //
 
-
 module corrector (input [71:0] IN,
     input [7:0] SYN,
     output reg [71:0] OUT

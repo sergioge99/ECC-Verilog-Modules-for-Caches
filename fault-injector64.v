@@ -4,7 +4,6 @@
 // Authors: Asier Fernandez and Sergio Garcia
 //
 
-
 module fault_injector (input [71:0] IN,
     input [1:0] control, //off-single-double-rand
     output reg [71:0] OUT
