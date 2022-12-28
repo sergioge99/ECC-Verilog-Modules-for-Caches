@@ -1,0 +1,685 @@
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/REMUW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/REMUW.csv
+[PASSED]: 119 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/MULW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/MULW.csv
+[PASSED]: 112 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SRAW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SRAW.csv
+[PASSED]: 115 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ADDW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ADDW.csv
+[PASSED]: 113 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ADDIW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ADDIW.csv
+[PASSED]: 82 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SLLW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SLLW.csv
+[PASSED]: 119 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SUBW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SUBW.csv
+[PASSED]: 118 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SRLW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SRLW.csv
+[PASSED]: 119 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SLLIW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SLLIW.csv
+[PASSED]: 83 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SRLIW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SRLIW.csv
+[PASSED]: 78 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/SRAIW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/SRAIW.csv
+[PASSED]: 77 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/rvc.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/rvc.csv
+[PASSED]: 218 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/MULHSU.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/MULHSU.csv
+[PASSED]: 107 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/DIVU.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/DIVU.csv
+[PASSED]: 110 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/REMU.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/REMU.csv
+[PASSED]: 110 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/MUL.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/MUL.csv
+[PASSED]: 102 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/MULH.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/MULH.csv
+[PASSED]: 104 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/MULHU.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/MULHU.csv
+[PASSED]: 108 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/jal.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/jal.csv
+[PASSED]: 30 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/bge.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/bge.csv
+[PASSED]: 145 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/blt.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/blt.csv
+[PASSED]: 131 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/bgeu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/bgeu.csv
+[PASSED]: 280 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sw.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sw.csv
+[PASSED]: 352 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lbu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lbu.csv
+[PASSED]: 181 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sb.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sb.csv
+[PASSED]: 267 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/slti.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/slti.csv
+[PASSED]: 165 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sra.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sra.csv
+[PASSED]: 364 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/srl.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/srl.csv
+[PASSED]: 430 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sh.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sh.csv
+[PASSED]: 340 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lw.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lw.csv
+[PASSED]: 209 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/andi.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/andi.csv
+[PASSED]: 158 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/srli.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/srli.csv
+[PASSED]: 223 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/slli.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/slli.csv
+[PASSED]: 207 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/beq.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/beq.csv
+[PASSED]: 132 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sll.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sll.csv
+[PASSED]: 390 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/addi.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/addi.csv
+[PASSED]: 182 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lh.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lh.csv
+[PASSED]: 197 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/and.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/and.csv
+[PASSED]: 426 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/xori.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/xori.csv
+[PASSED]: 151 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sub.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sub.csv
+[PASSED]: 302 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/slt.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/slt.csv
+[PASSED]: 289 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lb.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lb.csv
+[PASSED]: 181 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/or.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/or.csv
+[PASSED]: 462 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lui.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lui.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ori.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ori.csv
+[PASSED]: 153 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/bltu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/bltu.csv
+[PASSED]: 264 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fence_i.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fence_i.csv
+[PASSED]: 139 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/auipc.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/auipc.csv
+[PASSED]: 37 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/srai.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/srai.csv
+[PASSED]: 200 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/jalr.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/jalr.csv
+[PASSED]: 68 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/xor.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/xor.csv
+[PASSED]: 458 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/simple.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/simple.csv
+[PASSED]: 19 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/lhu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/lhu.csv
+[PASSED]: 206 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/bne.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/bne.csv
+[PASSED]: 134 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/add.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/add.csv
+[PASSED]: 313 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sltiu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sltiu.csv
+[PASSED]: 165 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sltu.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sltu.csv
+[PASSED]: 306 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sbreak.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sbreak.csv
+[PASSED]: 35 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/scall.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/scall.csv
+[PASSED]: 35 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ma_addr.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ma_addr.csv
+[PASSED]: 391 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/shamt.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/shamt.csv
+[PASSED]: 32 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/csr.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/csr.csv
+[PASSED]: 141 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-AND-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-AND-01.csv
+[PASSED]: 146 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BNE-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BNE-01.csv
+[PASSED]: 195 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-IO.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-IO.csv
+[PASSED]: 137 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BLT-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BLT-01.csv
+[PASSED]: 223 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SB-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SB-01.csv
+[PASSED]: 109 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-MISALIGN_LDST-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-MISALIGN_LDST-01.csv
+[PASSED]: 136 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ECALL-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ECALL-01.csv
+[PASSED]: 25 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LHU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LHU-01.csv
+[PASSED]: 128 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SRLI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SRLI-01.csv
+[PASSED]: 105 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BLTU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BLTU-01.csv
+[PASSED]: 223 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LH-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LH-01.csv
+[PASSED]: 128 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-AUIPC-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-AUIPC-01.csv
+[PASSED]: 159 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ORI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ORI-01.csv
+[PASSED]: 105 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLLI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLLI-01.csv
+[PASSED]: 105 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-RF_width-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-RF_width-01.csv
+[PASSED]: 116 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-XOR-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-XOR-01.csv
+[PASSED]: 151 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-DELAY_SLOTS-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-DELAY_SLOTS-01.csv
+[PASSED]: 57 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SRAI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SRAI-01.csv
+[PASSED]: 105 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLTU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLTU-01.csv
+[PASSED]: 148 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-OR-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-OR-01.csv
+[PASSED]: 148 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-JALR-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-JALR-01.csv
+[PASSED]: 190 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-XORI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-XORI-01.csv
+[PASSED]: 103 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ADDI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ADDI-01.csv
+[PASSED]: 106 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BGE-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BGE-01.csv
+[PASSED]: 215 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ANDI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ANDI-01.csv
+[PASSED]: 94 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SH-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SH-01.csv
+[PASSED]: 109 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLT-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLT-01.csv
+[PASSED]: 146 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLTIU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLTIU-01.csv
+[PASSED]: 95 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLL-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLL-01.csv
+[PASSED]: 129 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SRL-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SRL-01.csv
+[PASSED]: 129 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LUI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LUI-01.csv
+[PASSED]: 57 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SUB-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SUB-01.csv
+[PASSED]: 151 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LB-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LB-01.csv
+[PASSED]: 128 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LW-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LW-01.csv
+[PASSED]: 128 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SW-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SW-01.csv
+[PASSED]: 167 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SLTI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SLTI-01.csv
+[PASSED]: 90 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-SRA-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-SRA-01.csv
+[PASSED]: 129 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-RF_size-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-RF_size-01.csv
+[PASSED]: 87 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BEQ-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BEQ-01.csv
+[PASSED]: 243 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-BGEU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-BGEU-01.csv
+[PASSED]: 215 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-JAL-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-JAL-01.csv
+[PASSED]: 126 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-LBU-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-LBU-01.csv
+[PASSED]: 128 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ENDIANESS-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ENDIANESS-01.csv
+[PASSED]: 31 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-NOP-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-NOP-01.csv
+[PASSED]: 56 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-ADD-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-ADD-01.csv
+[PASSED]: 152 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/sbreak.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/sbreak.csv
+[PASSED]: 33 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/scall.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/scall.csv
+[PASSED]: 32 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ma_fetch.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ma_fetch.csv
+[PASSED]: 61 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/wfi.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/wfi.csv
+[PASSED]: 28 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/csr.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/csr.csv
+[PASSED]: 87 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-LW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-LW.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-LWSP.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-LWSP.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-ADD.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-ADD.csv
+[PASSED]: 96 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SRAI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SRAI.csv
+[PASSED]: 69 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-JALR.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-JALR.csv
+[PASSED]: 49 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-XOR.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-XOR.csv
+[PASSED]: 97 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SUB.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SUB.csv
+[PASSED]: 99 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-ADDI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-ADDI.csv
+[PASSED]: 78 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-BEQZ.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-BEQZ.csv
+[PASSED]: 38 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-ADDI16SP.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-ADDI16SP.csv
+[PASSED]: 34 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-LI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-LI.csv
+[PASSED]: 77 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SW.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SW.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-OR.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-OR.csv
+[PASSED]: 86 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-ADDI4SPN.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-ADDI4SPN.csv
+[PASSED]: 34 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-AND.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-AND.csv
+[PASSED]: 89 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SRLI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SRLI.csv
+[PASSED]: 74 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SWSP.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SWSP.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-SLLI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-SLLI.csv
+[PASSED]: 74 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-JR.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-JR.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-BNEZ.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-BNEZ.csv
+[PASSED]: 34 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-MV.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-MV.csv
+[PASSED]: 93 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-LUI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-LUI.csv
+[PASSED]: 79 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-J.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-J.csv
+[PASSED]: 34 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/C-ANDI.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/C-ANDI.csv
+[PASSED]: 70 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRC-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRC-01.csv
+[PASSED]: 79 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRS-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRS-01.csv
+[PASSED]: 76 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRSI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRSI-01.csv
+[PASSED]: 38 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRW-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRW-01.csv
+[PASSED]: 67 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRCI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRCI-01.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/I-CSRRWI-01.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/I-CSRRWI-01.csv
+[PASSED]: 27 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amoxor_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amoxor_w.csv
+[PASSED]: 48 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amoadd_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amoadd_w.csv
+[PASSED]: 45 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amoor_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amoor_w.csv
+[PASSED]: 43 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amomin_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amomin_w.csv
+[PASSED]: 43 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amoand_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amoand_w.csv
+[PASSED]: 40 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amomaxu_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amomaxu_w.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amoswap_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amoswap_w.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amominu_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amominu_w.csv
+[PASSED]: 42 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/amomax_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/amomax_w.csv
+[PASSED]: 44 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fclass.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fclass.csv
+[PASSED]: 97 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ldst.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ldst.csv
+[PASSED]: 37 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fmadd.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fmadd.csv
+[PASSED]: 168 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/recoding.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/recoding.csv
+[PASSED]: 54 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fcvt.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fcvt.csv
+[PASSED]: 92 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fcmp.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fcmp.csv
+[PASSED]: 133 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fcvt_w.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fcvt_w.csv
+[PASSED]: 417 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fadd.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fadd.csv
+[PASSED]: 133 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fmin.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fmin.csv
+[PASSED]: 193 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/move.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/move.csv
+[PASSED]: 200 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fdiv.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fdiv.csv
+[PASSED]: 99 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fclass.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fclass.csv
+[PASSED]: 106 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/ldst.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/ldst.csv
+[PASSED]: 66 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fmadd.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fmadd.csv
+[PASSED]: 171 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/recoding.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/recoding.csv
+[PASSED]: 77 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fcvt.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fcvt.csv
+[PASSED]: 129 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fcmp.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fcmp.csv
+[PASSED]: 135 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fadd.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fadd.csv
+[PASSED]: 135 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fmin.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fmin.csv
+[PASSED]: 195 matched
+
+veri-testharness : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/veri-testharness_sim/fdiv.csv
+spike : /home/asier/core-v-verif/cva6/sim/out_2022-12-28/spike_sim/fdiv.csv
+[PASSED]: 110 matched
+
+171 PASSED, 0 FAILED
